@@ -1,0 +1,21 @@
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+span {
+  margin: 10px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #1aa3ff;
+  border: none;
+  border-radius: 2px;
+  color: #fff;
+}
+
+  
